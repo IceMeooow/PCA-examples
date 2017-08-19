@@ -57,5 +57,5 @@ PCA is applied to it for reduction from nD to 2D space. There are visualization 
 
 ### Help
 
-About [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis).
-[PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) in scikit - learn library.
+* About [PCA](https://en.wikipedia.org/wiki/Principal_component_analysis).
+* [PCA](http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) in scikit - learn library.
